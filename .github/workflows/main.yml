@@ -4,5 +4,5 @@ jobs:
   my: 
     runs-on: ubuntu-latest
     steps:
-      name:mys
+      name: mys
       run: echo "Hello World"
